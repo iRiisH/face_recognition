@@ -1,0 +1,5 @@
+3d_visualization/.vs/*
+3d_visualization/x64/*
+3d_visualization/3d_visualization/x64/*
+3d_visualization/3d_visualization/3d_visualization.vcxproj
+3d_visualization/3d_visualization/3d_visualization.vcxproj.filters
